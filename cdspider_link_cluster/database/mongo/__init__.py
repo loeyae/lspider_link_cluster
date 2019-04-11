@@ -6,3 +6,6 @@
 :author:  Zhang Yi <loeyae@gmail.com>
 :date:    2019/4/11 23:20
 """
+
+from .ChannelRulesdb import ChannelRulesDB
+from .Linksdb import LinksDB
