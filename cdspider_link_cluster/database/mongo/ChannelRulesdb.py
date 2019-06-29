@@ -11,7 +11,7 @@
 import time
 import pymongo
 from cdspider_link_cluster.database.base import ChannelRulesDB as BaseChannelRulesDB
-from cdspider.cdspider.database.mongo.Mongo import Mongo
+from cdspider.database.mongo.Mongo import Mongo
 
 class ChannelRulesDB(Mongo, BaseChannelRulesDB):
     """
