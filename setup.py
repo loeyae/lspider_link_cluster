@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="cdspider_link_cluster",
-    version="0.1.1",
+    version="0.1.3",
     description="数据采集框架URL聚类",
     author='Zhang Yi',
     author_email='loeyae@gmail.com',
